@@ -58,12 +58,39 @@ Cloud computing is the delivery of computing services—like storage, databases,
 
 6. Managing server.
 
+7. Rent servers
+
+8. No hidden charges.
+
+9. Resources reside on some remote data center.
+
+
 
 ## What is a cloud provider?
 
 A cloud provider is a company that offers cloud computing services, such as storage, processing power, and software, over the internet. Examples include AWS, Microsoft Azure, and Google Cloud.
 
-## 
+## AWS
+
+AWS (Amazon Web Services) is a leading cloud platform that provides a wide range of on-demand computing services, such as storage, databases, and machine learning, allowing businesses to scale and innovate quickly without managing physical servers. It offers 220+ services.
+
+## Other cloud providers
+
+Other major cloud providers include:
+
+1. Microsoft Azure
+
+2. Google Cloud Platform (GCP)
+
+3. IBM Cloud
+
+4. Oracle Cloud
+
+5. Alibaba Cloud
+
+##
+
+
 
 
 
