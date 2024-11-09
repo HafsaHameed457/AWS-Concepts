@@ -166,5 +166,15 @@ Here are some common cloud careers and what each does:
 10. Cloud Sales Specialist: Sells cloud services and solutions to customers, understanding their needs and tailoring products to them
 
 
+## AWS Infrastructure
 
+In AWS, the infrastructure is organized into Regions, Availability Zones, and Local Zones to ensure high availability, fault tolerance, and low-latency access for global users. Here’s a breakdown of each:
+
+1. Regions
+
+- An AWS Region is a physical location in a specific geographic area that consists of multiple data centers.
+
+- Each Region is independent, isolated, and offers a variety of AWS services.
+
+- AWS Regions are spread across the world to allow users to choose where their data and applications are hosted, improving compliance with data residency requirements and reducing latency by being closer to end users.
 
