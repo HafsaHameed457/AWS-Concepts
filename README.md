@@ -182,6 +182,8 @@ It is a data center located at a certain place. Can be in a country or in a cont
 
 2. Availability Zones (AZs)
 
+These are seperate physical location within a region. They provide redundancy of data to avoid failures. They are isolated from one another.
+
 - An Availability Zone (AZ) is one or more discrete data centers with independent power, cooling, and networking within an AWS Region.
   
 - Each Region has at least two or more AZs (some have as many as six), providing redundancy in case one data center goes down.
@@ -189,3 +191,5 @@ It is a data center located at a certain place. Can be in a country or in a cont
 - AZs within a Region are connected via low-latency, high-speed networking links, allowing for synchronous replication and load balancing across zones.
   
 - Users can distribute applications across multiple AZs to ensure high availability and fault tolerance.
+
+3. 
