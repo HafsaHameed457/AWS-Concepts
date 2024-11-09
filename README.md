@@ -192,4 +192,14 @@ These are seperate physical location within a region. They provide redundancy of
   
 - Users can distribute applications across multiple AZs to ensure high availability and fault tolerance.
 
-3. 
+3. Local Zones
+
+These are extensions close to specific user for faster data delivery and service. Helps in ultra low latency.
+
+- Local Zones are extensions of AWS Regions that bring compute, storage, and other services closer to major metropolitan areas or specific locations.
+
+- They are ideal for applications requiring very low latency to end users or on-premises resources in specific locations, like gaming, media, real-time streaming, and machine learning.
+
+- Local Zones provide a subset of AWS services and have a direct connection to their parent AWS Region.
+
+- Unlike AZs, Local Zones are not always close to their parent Region, which allows AWS to serve customers who need low-latency access in areas where full Regions or AZs might not be available.
