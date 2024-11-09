@@ -203,3 +203,18 @@ These are extensions close to specific user for faster data delivery and service
 - Local Zones provide a subset of AWS services and have a direct connection to their parent AWS Region.
 
 - Unlike AZs, Local Zones are not always close to their parent Region, which allows AWS to serve customers who need low-latency access in areas where full Regions or AZs might not be available.
+
+## Core services
+
+These are essential building blocks or primary areas of functionality AWS provided for cloud computing. 
+
+- Fundamental tools comapnies use to run their apps and manage their infrastructure in cloud. 
+
+## Domain 
+
+It is a broad category of related services. Actually a group of interrelated services. 
+
+- Computer domain has services to run apps.
+
+- Storage domain saves and retrieves data.
+
