@@ -171,6 +171,8 @@ Here are some common cloud careers and what each does:
 In AWS, the infrastructure is organized into Regions, Availability Zones, and Local Zones to ensure high availability, fault tolerance, and low-latency access for global users. Here’s a breakdown of each:
 
 1. Regions
+2. 
+It is a data center located at a certain place. Can be in a country or in a continent.
 
 - An AWS Region is a physical location in a specific geographic area that consists of multiple data centers.
 
@@ -178,3 +180,12 @@ In AWS, the infrastructure is organized into Regions, Availability Zones, and Lo
 
 - AWS Regions are spread across the world to allow users to choose where their data and applications are hosted, improving compliance with data residency requirements and reducing latency by being closer to end users.
 
+2. Availability Zones (AZs)
+
+- An Availability Zone (AZ) is one or more discrete data centers with independent power, cooling, and networking within an AWS Region.
+  
+- Each Region has at least two or more AZs (some have as many as six), providing redundancy in case one data center goes down.
+  
+- AZs within a Region are connected via low-latency, high-speed networking links, allowing for synchronous replication and load balancing across zones.
+  
+- Users can distribute applications across multiple AZs to ensure high availability and fault tolerance.
